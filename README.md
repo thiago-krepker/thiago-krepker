@@ -6,7 +6,7 @@ passion  for technology.**
   <img align="right" alt="Mey gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
 
 **Conect me :**
-- <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker/">Meu linkedin</a>
+- <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker/">My linkedin</a>
 - <img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000"> thiagoribeirokrepker@gmail.com
 
 
