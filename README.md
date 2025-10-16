@@ -9,7 +9,7 @@ for technology.</li>
 
 <div>
 <h4><strong>Conect me :</h4>
-<li><img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker-995a99334/">My linkedin</a></li>
+<li><img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker-995a99334/"> My linkedin</a></li>
 <li><img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000"> thiagoribeirokrepker@gmail.com</li>
 </div>
   
