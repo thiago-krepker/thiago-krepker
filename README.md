@@ -1,6 +1,6 @@
 **Hello, guys👋! I'm Thiago**
 <div style="display: inline-block">
-  <img align="right" alt="Mey gif" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
+  <img align="right" alt="Mey gif" width="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
 
 <li><strong>I am an Information Systems student, focusing on data analysis  
 and front-end web development, with a strong passion  
