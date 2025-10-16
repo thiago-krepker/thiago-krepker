@@ -1,10 +1,10 @@
 **Hello, guys👋! I'm Thiago**
 
 - **I am an Information Systems student, focusing on data analysis  
-and front-end web development, with a strong  
-passion  for technology.**
-  <img align="right" alt="Mey gif" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
-
+and front-end web development, with a strong passion  
+for technology.**
+  <img align="right" alt="Mey gif" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
+  
 **Conect me :**
 - <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker-995a99334/">My linkedin</a>
 - <img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000"> thiagoribeirokrepker@gmail.com
