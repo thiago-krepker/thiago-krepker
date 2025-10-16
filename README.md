@@ -1,17 +1,19 @@
 **Hello, guys👋! I'm Thiago**
+<div style="display: inline-block">
+  <img align="right" alt="Mey gif" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
 
-<img align="right" alt="Mey gif" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVobTNmM2Y0a25vOXVsczYzcDhqdjJseTJhODNqcWZoMG5hbTZjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVBUY4TaMuMqHDpNMd/giphy.gif">
-
-- **I am an Information Systems student, focusing on data analysis  
+<li><strong>I am an Information Systems student, focusing on data analysis  
 and front-end web development, with a strong passion  
-for technology.**
+for technology.</li>
+</div>
+
+<div>
+<h4><strong>Conect me :</h4>
+<li><img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker-995a99334/">My linkedin</a></li>
+<li><img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000"> thiagoribeirokrepker@gmail.com</li>
+</div>
   
-**Conect me :**
-- <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/thiago-krepker-995a99334/">My linkedin</a>
-- <img alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000"> thiagoribeirokrepker@gmail.com
-
-
-**Languages And Tools:** 
+<h4><strong>Languages And Tools:</h4>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
